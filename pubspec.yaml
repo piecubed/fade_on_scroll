@@ -1,0 +1,8 @@
+name: fade_on_scroll
+description: Flutter package to fade content out of view in a SliverAppBar
+dependencies:
+  flutter:
+    sdk: flutter
+version: 1.0.0
+repository: https://github.com/piecubed/fade_on_scroll
+
